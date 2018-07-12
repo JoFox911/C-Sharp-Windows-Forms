@@ -1,0 +1,10 @@
+C:\Users\Nemo\source\repos\URLopener\URLopener\bin\Debug\URLopener.exe.config
+C:\Users\Nemo\source\repos\URLopener\URLopener\bin\Debug\URLopener.exe
+C:\Users\Nemo\source\repos\URLopener\URLopener\bin\Debug\URLopener.pdb
+C:\Users\Nemo\source\repos\URLopener\URLopener\obj\Debug\URLopener.csprojAssemblyReference.cache
+C:\Users\Nemo\source\repos\URLopener\URLopener\obj\Debug\URLopener.Form1.resources
+C:\Users\Nemo\source\repos\URLopener\URLopener\obj\Debug\URLopener.Properties.Resources.resources
+C:\Users\Nemo\source\repos\URLopener\URLopener\obj\Debug\URLopener.csproj.GenerateResource.cache
+C:\Users\Nemo\source\repos\URLopener\URLopener\obj\Debug\URLopener.csproj.CoreCompileInputs.cache
+C:\Users\Nemo\source\repos\URLopener\URLopener\obj\Debug\URLopener.exe
+C:\Users\Nemo\source\repos\URLopener\URLopener\obj\Debug\URLopener.pdb

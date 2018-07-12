@@ -1,0 +1,1 @@
+howto http://websitesscreenshot.com/capture-screenshot-of-website-in-c-sharp.html
