@@ -1,0 +1,10 @@
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\bin\Debug\ITEnterpriseTest.exe.config
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\bin\Debug\ITEnterpriseTest.exe
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\bin\Debug\ITEnterpriseTest.pdb
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\obj\Debug\ITEnterpriseTest.csprojAssemblyReference.cache
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\obj\Debug\ITEnterpriseTest.Form1.resources
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\obj\Debug\ITEnterpriseTest.Properties.Resources.resources
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\obj\Debug\ITEnterpriseTest.csproj.GenerateResource.cache
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\obj\Debug\ITEnterpriseTest.csproj.CoreCompileInputs.cache
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\obj\Debug\ITEnterpriseTest.exe
+c:\users\nemo\source\repos\ITEnterpriseTest\ITEnterpriseTest\obj\Debug\ITEnterpriseTest.pdb
