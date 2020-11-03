@@ -1,0 +1,11 @@
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\bin\Debug\UnityCourcesTest.exe.config
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\bin\Debug\UnityCourcesTest.exe
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\bin\Debug\UnityCourcesTest.pdb
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.csprojAssemblyReference.cache
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.Properties.Resources.resources
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.csproj.GenerateResource.cache
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.csproj.CoreCompileInputs.cache
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.exe
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.pdb
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.MainForm.resources
+C:\JoProjects\GitHub\C-Sharp-Windows-Forms\UnityCourcesTest\UnityCourcesTest\obj\Debug\UnityCourcesTest.SettingsForm.resources
